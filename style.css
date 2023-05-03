@@ -1,0 +1,39 @@
+body
+{
+   background-image: url('background.jpg')
+}
+
+h1{
+    color: darkolivegreen;
+    background-color: bisque;
+}
+
+#show_sketch
+{
+    float:right;
+}
+
+#score
+{
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+#timer
+{
+    float:right;
+    font-size: 20px;
+    margin-right: 150px;
+}
+
+p
+{
+    font-size:20px;
+    color:darkgreen;
+}
+
+#sketch_to-be_drawn
+{
+    font-size:25px;
+    color:rgb(23, 152, 23);
+}
